@@ -50,7 +50,7 @@ Install the Python dependencies (example):
 This project requires **Gurobi Optimizer** (commercial solver) and a valid license.
 
 - Gurobi is **not distributed** with this repository.
-- Users must install Gurobi separately and set up a valid license.
+- Users must install Gurobi separately and set up a valid license ([Free license for academics](https://www.gurobi.com/academia/academic-program-and-licenses/)).
 - **This repository does not include any Gurobi binaries, libraries, or license files.**
 
 Quick check that `gurobipy` is available:
