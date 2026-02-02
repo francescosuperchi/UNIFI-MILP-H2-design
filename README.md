@@ -44,9 +44,6 @@ DOI: 10.1016/j.renene.2025.122813
 
 Install the Python dependencies (example):
 
-```bash
-pip install numpy pandas
-```
 
 ### Gurobi
 
@@ -54,6 +51,7 @@ This project requires **Gurobi Optimizer** (commercial solver) and a valid licen
 
 - Gurobi is **not distributed** with this repository.
 - Users must install Gurobi separately and set up a valid license.
+- **This repository does not include any Gurobi binaries, libraries, or license files.**
 
 Quick check that `gurobipy` is available:
 
